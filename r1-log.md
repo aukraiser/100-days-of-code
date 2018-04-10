@@ -39,3 +39,6 @@ User registration tests
 
 ### R1D12
 User registration
+
+### R1D13
+User Login

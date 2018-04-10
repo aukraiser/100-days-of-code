@@ -60,15 +60,15 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 
 **Link to work**: [CryptoZombie](cryptozombies.io/)
 
-## Day 7: April 4, 2018
+## Day 8: April 4, 2018
 
 **Today's Progress**: Refactored most of the back-office code to add the admin part. Refactored the tests suite according to these changes
 
-**Thoughts**:
+**Thoughts**
 
 **Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
 
-## Day 8: April 5, 2018
+## Day 9: April 5, 2018
 
 **Today's Progress**: Follow up on feature implementation through TDD
 
@@ -76,7 +76,7 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 
 **Link to work**:
 
-## Day 9: April 6, 2018
+## Day 10: April 6, 2018
 
 **Today's Progress**: Working on the user registration feature implementation through TDD
 
@@ -84,9 +84,17 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 
 **Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
 
-## Day 10: April 6, 2018
+## Day 11: April 7, 2018
 
 **Today's Progress**: Still working on the user registration feature implementation
+
+**Thoughts**:
+
+**Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
+
+## Day 12: April 9, 2018
+
+**Today's Progress**: Working on the user login feature implementation
 
 **Thoughts**:
 
