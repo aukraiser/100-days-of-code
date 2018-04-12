@@ -99,3 +99,11 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts**:
 
 **Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
+
+## Day 13: April 11, 2018
+
+**Today's Progress**: Working on the user login feature implementation
+
+**Thoughts**: Right now I'm stuck on a problem. Though I know where the origin might be, it's quite harder to diagnosticate than I thought ...
+
+**Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
