@@ -107,3 +107,19 @@ UI/UX and CSS will be the most challenging parts for me since it is not my strin
 **Thoughts**: Right now I'm stuck on a problem. Though I know where the origin might be, it's quite harder to diagnosticate than I thought ...
 
 **Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
+
+## Day 14: April 12, 2018
+
+**Today's Progress**: Working on something new
+
+**Thoughts**: Still implementing with Laravel that I want to learn really bad but the project is new and will be useful to me
+
+**Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)
+
+## Day 15: April 14, 2018
+
+**Today's Progress**: Implementing first tests after a quick architecture session
+
+**Thoughts**:
+
+**Link to work**: [Laravel Testing](https://laravel.com/docs/5.6/testing)

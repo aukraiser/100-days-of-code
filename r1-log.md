@@ -44,3 +44,10 @@ User registration
 User Login
 
 ### R1D14
+Finished User Login
+
+### R1d15
+New opportunity arrived and I'm working on something !
+
+### R1D16
+Scaffolding the new project
